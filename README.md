@@ -43,7 +43,7 @@ The icon used was made by:
 
 If you're only looking for the encryption/decryption code without the user interface, you can find it [here](https://github.com/luisbraganca/file-encryption/blob/master/file-encryption/src/security/FileEncryption.java), fully commented.
 Usage example:
-```
+```java
 new FileEncryption("Example.pdf", "MyPaSsWoRd!123", FileEncryption.ENCRYPT_MODE).start();
 ```
 The rest of the project isn't that much commented but it's mainly JavaFX operations.
