@@ -18,7 +18,7 @@ import javafx.stage.Stage;
  */
 public class AboutPane extends VBox
 {
-    private static final String PAGE_LINK = "http://github.com/luisbraganca/file-encryption";
+    private static final String PAGE_LINK = "https://www.github.com/luisbraganca/file-encryption";
 
     private Stage primaryStage;
 
