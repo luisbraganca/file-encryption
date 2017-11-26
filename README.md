@@ -23,6 +23,7 @@ This application allows you to encrypt a file using the [AES](https://en.wikiped
 * File decryption (or safely cancel it without crashing the application)
 * Select the file using a file chooser
 * Friendly graphical user interface showing the progress of the task
+* Embedded web browser on the "about" pane that opens this GitHub page
 
 ## Getting started
 
